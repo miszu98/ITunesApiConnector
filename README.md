@@ -26,8 +26,9 @@ Type in your browser ```http://localhost:8080/get/{author}/{limit}```
 ```
 Example:
 http://localhost:8080/get/MileyCyrus/5
-This give you```[response](#images)
+This give you
 ```
+[response](#images)
 
 ## Images 
 ![alt text](https://i.imgur.com/gHaifyr.png)
