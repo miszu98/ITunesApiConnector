@@ -1,6 +1,6 @@
 # ITunesApiConnector
 
-### An application that connects to the api, and set up own better "cleariest" endpoint for searching tracks by Author with number of tracks
+### An application that connects to the api, and set up own better "cleariest" endpoint for searching ```random``` tracks by Author with number of tracks
 
 ## Assumptions
 ### The assumptions were to create a web application that would allow:
@@ -10,9 +10,6 @@
 ## Technologies and Dependecies
 * JAVA language
 * Spring Boot 
-* H2
-* Hibernate
-* Thymeleaf
 * Gson
 
 ## Launch
