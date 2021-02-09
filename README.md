@@ -18,7 +18,7 @@
 ## Launch
 Type in your browser ```http://localhost:8080/get/{author}/{limit}```
 
-```Spring Boot
+```Java Spring Boot
 @PathVariable String author // replace that variable in link your author
 @PathVariable int limit // replace that variable in link your limit
 ```
