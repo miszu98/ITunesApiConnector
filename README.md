@@ -18,7 +18,7 @@
 ## Launch
 Type in your browser ```http://localhost:8080/get/{author}/{limit}```
 
-```Spring
+```Spring Boot
 @PathVariable String author // replace that variable in link your author
 @PathVariable int limit // replace that variable in link your limit
 ```
@@ -30,10 +30,10 @@ This give you```[response](#images)
 ```
 
 ## Images 
-![alt text](https://i.imgur.com/KKHNSw5.png)
+![alt text](https://i.imgur.com/gHaifyr.png)
 
 ## Status of project: 
 ```diff 
 + COMPLETE
 ```
-![alt text](https://i.imgur.com/gHaifyr.png)
+
