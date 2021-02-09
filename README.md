@@ -18,15 +18,16 @@
 ## Launch
 Type in your browser ```http://localhost:8080/get/{author}/{limit}```
 
-```JAVA
+```Spring
 @PathVariable String author // replace that variable in link your author
 @PathVariable int limit // replace that variable in link your limit
 ```
+
 ```
 Example:
 http://localhost:8080/get/MileyCyrus/5
 This give you```[response](#images)
-
+```
 
 ## Images 
 ![alt text](https://i.imgur.com/KKHNSw5.png)
